@@ -23,33 +23,21 @@ Key attrition drivers identified: monthly income, age, overtime status, total wo
 - **Class distribution:** 83.88% current employees, 16.12% past employees
 
 
-```
 
 ---
 
 ## Setup Instructions
 
-
 ### Install Required Packages
 
-
-| Package | Purpose |
-|---|---|
-| `pandas` | Data loading and manipulation |
-| `numpy` | Numerical operations |
-| `matplotlib` / `seaborn` | Static data visualization |
-| `plotly` | Interactive visualization |
-| `scipy` | Statistical testing (t-test) |
-| `scikit-learn` | Preprocessing, modeling, and evaluation |
-
-
-
-
-### Load the Data
-
-```python
-df = pd.read_csv("IBM_Wat_EMPL_Data.csv")
-```
+| Package |
+|---|
+| `pandas` |
+| `numpy` |
+| `matplotlib` / `seaborn` | 
+| `plotly` |
+| `scipy` |
+| `scikit-learn` |
 
 ---
 
